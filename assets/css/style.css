@@ -110,6 +110,7 @@ h1, h2 {
 
         position: absolute;
     }
+
     /* club ethos */
 
     #club-ethos {
@@ -185,4 +186,16 @@ h1, h2 {
         background: url('../images/ethos-center-image.jpeg') no-repeat center center;
         height: 100%;
         border-radius: 50%;
+    }
+
+    /* event times */
+
+    #times {
+        background-image: url('../images/dublin-city.webp');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        overflow: hidden;
+
     }
